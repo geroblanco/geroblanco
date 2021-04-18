@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/5wFHtUyhY0n1CvQRuH/giphy.gif" width="100%" height="450px">
 
-### <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" style="display=flex;" width="60px"> ###<span>Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!</span>
+### <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" style="display=flex;" width="60px"> <span>Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!</span>
 
 I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
 
