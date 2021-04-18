@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="450px">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="450px" style="border-radius=50px;">
 
 ### Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!
 
