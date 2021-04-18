@@ -1,4 +1,6 @@
-### <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif" width="60px"> Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!
+### <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif" width="200px">
+
+Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!
 
 I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
 
