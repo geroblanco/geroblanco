@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="450px">
 
-### Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!
+### Hello, I'm [Geronimo Blanco](https://www.geroblanco.com)!
 
 I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
 
@@ -14,4 +14,4 @@ Currently improving my Machine Learning and App Development skills: React JS, Sw
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vinayven/)
 
-**[geronimoblanco.com](https://www.geronimoblanco.com/)**
+**[geroblanco.com](https://www.geroblanco.com/)**
