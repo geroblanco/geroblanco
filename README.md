@@ -2,9 +2,9 @@
 
 ###  <h1 style="font-size=12px;">Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!</h1>
 
-I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
+<p style="background=blue;">I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
 
-Since mid 2020, I've been working non stop on Python projects. I eventually found my interest in Machine Learning during the end of 2020 and since then, I've constantly pursued it. I've worked with Python, HTML/CSS, JavaScript, Kotlin, Swift, and C but Python is my favorite.
+Since mid 2020, I've been working non stop on Python projects. I eventually found my interest in Machine Learning during the end of 2020 and since then, I've constantly pursued it. I've worked with Python, HTML/CSS, JavaScript, Kotlin, Swift, and C but Python is my favorite.</p>
 
 ### What I'm focusing on 👨‍💻
 
