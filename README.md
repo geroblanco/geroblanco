@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Vinay Venkatesh](https://www.vinayven.com)!
+### <img src="https://media.giphy.com/media/8hYQgBIIHkCPjRTmai/giphy.gif" width="60px"> Hello, I'm [Geronimo Blanco](https://www.geronimoblanco.com)!
 
 I am a High School student with a strong interest in Machine Learning and Artificial Intelligence concepts residing in San Jose, California.
 
@@ -12,4 +12,4 @@ Currently improving my Machine Learning and App Development skills: React JS, Sw
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vinayven/)
 
-**[vinayven.com](https://www.vinayven.com/)**
+**[geronimoblanco.com](https://www.geronimoblanco.com/)**
